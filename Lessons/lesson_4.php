@@ -8,7 +8,7 @@
 // For Each Loop
 
 $products = [
-    ['name' => 'laptop', 'price' => 1000],
+    ['name' => 'mobile', 'price' => 1000],
     ['name' => 'phone', 'price' => 2000],
     ['name' => 'tablet', 'price' => 5000]
 
